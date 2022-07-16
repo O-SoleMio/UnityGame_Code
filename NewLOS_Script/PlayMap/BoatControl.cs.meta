@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 19d77a1d92bdc024e80512e8ace09d9a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playBoat: {instanceID: 0}
+  - startPoint: {instanceID: 0}
+  - hptext: {instanceID: 0}
+  - speedtext: {instanceID: 0}
+  - Profile: {instanceID: 0}
+  - CameraPost: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
